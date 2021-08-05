@@ -1,6 +1,6 @@
 # Tool-box
 [![Author](https://img.shields.io/badge/Author-Shelley,Wang-red.svg "Author")](./Author "Author")
-[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
+[![LICENSE](https://img.shields.io/github/license/10d1/tool-box?color=green&label=LICENSE "LICENSE")](./LICENSE "LICENSE")
 ![python](https://img.shields.io/badge/python-blue.svg "python")
 ![hql](https://img.shields.io/badge/hql-blue.svg "hql")
 ![sql](https://img.shields.io/badge/sql-blue.svg "sql")
@@ -22,6 +22,3 @@ Wrapping up some common function and reusing them for the similar issue saves my
   - `./ADF-pipeline-data-lineage-tool` A tool as to scan the data lineage in spark/sql/hql based Microsoft ADF pipeline and it's code repository, usually used to have the first glance when joining a Data warehouse projects with complex ETL jobs.
 
 ## Contact
-
-## License
-GLP
